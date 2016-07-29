@@ -4,3 +4,5 @@
 	- -n 显示行号
 	- -i 忽略大小写
 	- -R 查找所有文件包含子目录（不懂）
+- chmod
+	- [参考一](http://www.cnblogs.com/peida/archive/2012/11/29/2794010.html)
